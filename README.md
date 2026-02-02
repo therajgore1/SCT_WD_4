@@ -42,13 +42,6 @@ The aim of this task was to build a clean, user-friendly productivity app that a
 
 ---
 
-## 🔹 Project Preview
-
-📌 Live Demo: *(Add Netlify / GitHub Pages link here)*  
-📌 Internship Task: SkillCraft Technology – Web Development Internship  
-
----
-
 ## 🔹 Future Improvements
 
 - Task reminders and notifications  
